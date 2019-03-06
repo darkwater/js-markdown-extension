@@ -19,8 +19,8 @@
   max-width: 790px;
   margin: 30px auto;
   padding: 30px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  /* border: 1px solid #ddd; */
+  /* border-radius: 4px; */
 }
 
 .markdown-source {
